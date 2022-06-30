@@ -1,0 +1,29 @@
+PATH
+  remote: .
+  specs:
+    json_in_kdl (0.1.0)
+      kdl (~> 1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kdl (1.0.2)
+      simpleidn (~> 0.2.1)
+    minitest (5.16.1)
+    rake (13.0.6)
+    simpleidn (0.2.1)
+      unf (~> 0.1.4)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.8.2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  json_in_kdl!
+  minitest (~> 5.0)
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.3.14
