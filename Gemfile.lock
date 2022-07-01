@@ -7,7 +7,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    kdl (1.0.2)
+    kdl (1.0.3)
       simpleidn (~> 0.2.1)
     minitest (5.16.1)
     rake (13.0.6)
