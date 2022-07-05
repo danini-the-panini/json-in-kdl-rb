@@ -1,0 +1,3 @@
+object "asdf" {
+  (foo)- "qwer"
+}
